@@ -15,7 +15,7 @@ Decibel Reader
 
 Read data from a USB sound level meter, display it in a GUI, andd upload it via FTP.
 
-* Free software: ISC license
+* Free software: MIT license
 * Documentation: https://decibelreader.readthedocs.org.
 
 Features

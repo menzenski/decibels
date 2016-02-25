@@ -7,7 +7,7 @@ Original author: Matt Menzenski ( matt.menzenski@gmail.com )
 License: MIT ( http://opensource.org/licenses/MIT )
 
 The MIT License (MIT)
-----------------------
+=====================
 
 Copyright (c) 2015-2016 Matthew Menzenski
 
