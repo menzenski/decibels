@@ -1,3 +1,10 @@
+# vim stuff
+*.swp
+
+# output files
+*.json
+*.xml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
